@@ -1,0 +1,6 @@
+go
+lab9-linux-go
+*.o
+glee
+glee/*
+glee
