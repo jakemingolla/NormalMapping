@@ -17,11 +17,11 @@ This project began as a lab assignment in Remco Chang's [Comp 175 -- Computer Gr
 
 #### Screenshots
 
-![Final Image](http://i.imgur.com/BM9eg50.png)
+![Final Image](http://i.imgur.com/BM9eg5O.png)
 
 Here is a still image of the final composite image of the bump map and brick images shown below. The black square represents the current light source position as it rotates aabout the wall. This image shows the shadows formed on the wall despite the fact it is completely flat - the illusion of depth is created based on the dot product of the normal mapping and the light vector.
 
-[Figures](http://i.imgur.com/nCaPWQM.png)
+![Figures](http://i.imgur.com/nCaPWQM.png)
 
 .gif images coming soon!
 
